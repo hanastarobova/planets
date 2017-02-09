@@ -3,8 +3,9 @@
 -apples
 -oranges
 1-R
-2-Pytho
+2-Python
 
 
-[Software crpentry] (www.softwarecarpentry.au)
+[Software carpentry] (www.softwarecarpentry.au)
 
+#Hello! I think we're getting this
